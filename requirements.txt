@@ -1,0 +1,12 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart>=0.0.5
+aiofiles>=0.8.0
+mcp>=0.1.0
+fitz
+docx
+fastmcp
+httpx
+llama-index 
+llama-index-cli
+llama-index-llms-lmstudio
